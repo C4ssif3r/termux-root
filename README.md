@@ -14,4 +14,14 @@
   - or
   + `chmod +x main`
   + `./main`
+
     - wait for INSTALLi . . .
+
+# Fake ROOT privilege ?
+
+> U can give `FAKEROOR` Privilege in termux woth only type ↓:
+  + `fakeroot`
+
+> Real ROOT PRIVILEGEG ? ONLY type ↓:
+
+  + `root`
