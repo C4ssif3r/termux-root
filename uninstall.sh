@@ -4,15 +4,19 @@
 # We are sorry for inconvenience!
 
 clear
-echo "Sorry to here, You want to uninstall this tool!"
-echo "We are sorry for inconvenience!"
+echo "Sorry to here :(, You want to uninstall this tool!"
+echo "I'm sorry for inconvenience!"
 echo "Uninstalling Root from your device"
 sleep 0.5
+# mv prefix to default 
 mv $PREFIX/bin/bash.bashrc_old $PREFIX/bin/bash.bashrc
 sleep 1
+# install paks
 apt-get uninstall fish ncurses-utils proot proot-distro tsu fakeroot parted -y
 sleep 0.5
+# reload term setting 
 termux-reload-settings
+# ok mji ?
 echo "Successfully Uninstalled Root!"
 sleep 1
 clear
