@@ -6,7 +6,7 @@
 > Give root access in your termux !! Safe 
 
 #### installing in termux :
-  + ```bash apt update -y```
+  + `apt update -y`
   + `apt upgrade -y`
   + `git clone https://github.com/C4ssif3r/termux-root/`
   + `cd termux-root`
