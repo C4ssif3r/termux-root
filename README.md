@@ -25,3 +25,11 @@
 > Real ROOT PRIVILEGEG ? ONLY type ↓:
 
   + `root`
+
+### UNINSTALL?
+
+  + `cd termux-root`
+  + `chmod 777 uninstall.sh`
+  + `./uninstall.sh`
+  
+    - now wait for uninstalling . . .
