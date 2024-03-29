@@ -34,7 +34,7 @@
   
     - now wait for uninstalling . . .
 ##### report bug and issues on telegram ↓
-[![My Telegram](https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZeroFoo)
+[![My Telegram](https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AboutMji)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ##### or report on Instagram ↓
 [![My Instagram](https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Mji_Devil)
