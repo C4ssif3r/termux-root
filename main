@@ -1,3 +1,6 @@
+
+#!/usr/bin/bash
+
 clear
 echo -e "\e[1;31m"
 
@@ -28,7 +31,7 @@ echo -e "\e[1;36m\n"
 echo "[+] AUTO INSTALLER STARTED"
 sleep 1
 echo "[✓] SYNCING"
-prinf " ."
+printf " ."
 sleep 1
 printf " ."
 sleep 0.5
@@ -38,14 +41,14 @@ printf "  ✓"
 sleep 1
 sleep 0.5
 echo "[+] COLLECTING PACKS"
-prinf " /"
+printf " /"
 sleep 0.5
 printf " /"
 sleep 0.5
 printf " /"
 sleep 0.1
 printf "  /"
-prinf " /"
+printf " /"
 sleep 0.5
 printf " /"
 sleep 0.5
@@ -57,7 +60,7 @@ printf " ✓"
 echo "[✓] PREPARING PAKS"
 sleep 0.5
 echo "[✓] GIVE ROOT PRIVILEGES"
-prinf " ."
+printf " ."
 sleep 1
 printf " ."
 sleep 0.5
